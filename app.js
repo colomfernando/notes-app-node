@@ -1,4 +1,3 @@
-/* eslint-disable node/no-unpublished-require */
 const yargs = require('yargs');
 const Notes = require('./lib/notes');
 
