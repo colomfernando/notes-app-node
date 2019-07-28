@@ -2,6 +2,7 @@
 
 [![Version badge](https://img.shields.io/badge/Version-1.0.0-GREEN.svg)](https://shields.io/)
 [![License badge](https://img.shields.io/badge/license-MIT-GREEN.svg)](https://shields.io/)
+
 Run npm install
 
 ## **Commands available**
