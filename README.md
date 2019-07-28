@@ -1,6 +1,6 @@
 # Notes-app-node
 
-## Run npm install
+Run npm install
 
 ## **Commands available**
 
