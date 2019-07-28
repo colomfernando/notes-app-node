@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## [Unreleased](https://github.com/colomfernando/notes-app-node/compare/v1.1.0...head)
+## [Unreleased](https://github.com/colomfernando/notes-app-node/compare/v1.1.0...HEAD)
 
 ## [1.1.0](https://github.com/colomfernando/notes-app-node/compare/v1.0.0...v1.1.0) - 2018-07-28
 
