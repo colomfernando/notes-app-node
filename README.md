@@ -1,2 +1,14 @@
-# notes-app-node
-node cli notes
+# Notes-app-node
+
+## commands available
+
+* add
+* remove
+* read
+* list
+
+## Run commands
+
+```javascript
+npm app.js command --params
+```
